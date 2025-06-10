@@ -16,8 +16,8 @@ $(document).ready(function () {
       $("html").attr("data-theme") ||
       browserPref;
 
-    if (use_theme === "dark") {
-      $("html").attr("data-theme", "dark");
+    if (use_theme === "blah") {
+      $("html").attr("data-theme", "light");
       $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
     } else if (use_theme === "light") {
       $("html").removeAttr("data-theme");
@@ -29,10 +29,10 @@ $(document).ready(function () {
 
   // if user hasn't chosen a theme, follow OS changes
   window
-    .matchMedia('(prefers-color-scheme: dark)')
+    .matchMedia('(prefers-color-scheme: light)')
     .addEventListener("change", (e) => {
       if (!localStorage.getItem("theme")) {
-        setTheme(e.matches ? "light" : "light");// setTheme(e.matches ? "dark" : "light");
+        setTheme(e.matches ? "light" : "light");// setTheme(e.matches ? "blah" : "light");
       }
     });
 
