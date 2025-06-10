@@ -32,7 +32,7 @@ Lakshmi Narasimhan Govindarajan, Rex G Liu, Drew Linsley, Alekh Karkada Ashok, *
 
 ### "Sliced" Subwindow Search: a Sublinear-complexity Solution to the Maximum Rectangle Problem
 
-**Max Reuter**, Gheorghe-Teodor Bercea, Liana Fong
+**Max Reuter**, Gheorghe-Teodor Bercea, Liana Fong  
 2019 | [arXiv](https://arxiv.org/pdf/1908.00140)
 
 <img src='/images/swss.png' width='500'/>
