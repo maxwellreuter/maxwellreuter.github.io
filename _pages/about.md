@@ -13,9 +13,9 @@ As a current Master's student at Michigan State University, I've investigated th
 
 Before coming to MSU, I was a Machine Learning Engineer at [TechSmith](https://www.techsmith.com), where I helped build high-quality datasets and train vision models. I also worked on the intergration of LLMs into our products.
 
-Prior to joining TechSmith, I was a research assistant at Brown University in [Thomas Serre's lab](https://serre-lab.clps.brown.edu), where I helped build a diagnostic tool that can help determine whether a given deep reinforcement learning model struggles more with learning the rules of the environment vs. the perceiving the environment (visually) [\[arXiv\]](https://arxiv.org/pdf/2309.13181).
+Prior to joining TechSmith, I spent time as a research assistant at Brown University in [Thomas Serre's lab](https://serre-lab.clps.brown.edu), where I helped build a diagnostic tool that can help determine whether a given deep reinforcement learning model struggles more with learning the rules of the environment vs. perceiving the environment (visually) [\[arXiv\]](https://arxiv.org/pdf/2309.13181).
 
-When I graduated with a computer science degree from MSU in 2017, I joined IBM Research as a research/software engineer. There I led a research project that approximated a common subroutine used in several computational disciplines, leading to an 11x speedup [\[arXiv\]](https://arxiv.org/pdf/1908.00140).
+When I graduated with a computer science degree from MSU in 2017, I joined IBM Research as a research/software engineer. There I assisted with various AI-centric projcets, and led a research project that approximated a common subroutine used in several computational disciplines, leading to an 11x speedup [\[arXiv\]](https://arxiv.org/pdf/1908.00140).
 
 ## Publications and preprints
 
