@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Max Reuter"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student focusing on AI trustworthiness."
+  bio              : "M.S. student focusing on AI robustness and safety."
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
   uri              : # URL
