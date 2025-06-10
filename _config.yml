@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Max Reuter"
+title                    : "Max Reuter's Homepage"
 title_separator          : "-"
 name                     : &name "Max Reuter"
 description              : &description "personal description"
