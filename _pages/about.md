@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Under construction!  
+I care about AI trustworthiness, robustness, and safety, especially in large language models (LLMs).
+
+As a current Master's student at Michigan State University, I've investigated the behavior of frontier LLMs, such as circumstances under which Google's NotebookLM would advise a doctor to recommend that their patient eat rocks [\[*Eye*, 2025\]](https://www.nature.com/articles/s41433-025-03817-y), or ChatGPT's tendency to refuse certain prompts [\[arXiv\]](https://arxiv.org/pdf/2306.03423).
+
+Before coming to MSU, I was a Machine Learning Engineer at [TechSmith](https://www.techsmith.com), where I helped build high-quality datasets and train vision models. I also worked on the intergration of LLMs into our products.
+
+Prior to joining TechSmith, I was a research assistant at Brown University in [Thomas Serre's lab](https://serre-lab.clps.brown.edu), where I helped build a diagnostic tool that can help determine whether a given deep reinforcement learning model struggles more with learning the rules of the environment vs. the perceiving the environment (visually) [\[arXiv\]](https://arxiv.org/pdf/2309.13181).
+
+When I graduated with a computer science degree from MSU in 2017, I joined IBM Research as a research/software engineer. There I led a research project that approximated a common subroutine used in several computational disciplines, leading to an 11x speedup [\[arXiv\]](https://arxiv.org/pdf/1908.00140).
 
 ## Publications and preprints
 
