@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+## First section
+
+Under construction!
+
 ## Publications and preprints
 
 ### Generative AI in clinical practice: novel qualitative evidence of risk and responsible use of Google’s NotebookLM
@@ -18,7 +22,7 @@ redirect_from:
 
 ### I'm Afraid I Can't Do That: Predicting Prompt Refusal in Black-Box Generative Language Models
 
-**Max Reuter***, William Schuzle*  
+**Max Reuter**\*, William Schuzle\*  
 2023 | [arXiv](https://arxiv.org/pdf/2306.03423) | [GitHub](https://github.com/maxwellreuter/chatgpt-refusals)
 
 <img src='/images/refusal.png' width='640'/>
