@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Under construction!
+Under construction!  
 
 ## Publications and preprints
 
